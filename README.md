@@ -38,7 +38,7 @@ git clone https://github.com/slavingia/skills.git ~/.claude/plugins/skills
 /plugin install minimalist-entrepreneur
 ```
 
-## Skills 一览
+## 技能 一览
 
 | Skill | 命令 | 适用场景 |
 |------|------|---------|
