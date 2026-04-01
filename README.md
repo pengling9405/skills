@@ -1,10 +1,10 @@
-# The Minimalist Entrepreneur 中文整理版
+# 《The Minimalist Entrepreneur》技能中文版
 
 > 说明：这是 `slavingia/skills` 的中文整理版入口文档。英文原文保持不变。
 
 ## 这是什么
 
-这是基于 Sahil Lavingia 的《The Minimalist Entrepreneur》整理出来的一组 Claude Code skills。
+这是基于 Sahil Lavingia 的《The Minimalist Entrepreneur》整理出来的一组 Claude Code 技能。
 
 核心思想不是“先做产品”，而是：
 
@@ -38,9 +38,9 @@ git clone https://github.com/slavingia/skills.git ~/.claude/plugins/skills
 /plugin install minimalist-entrepreneur
 ```
 
-## 技能 一览
+## 技能一览
 
-| Skill | 命令 | 适用场景 |
+| 技能 | 命令 | 适用场景 |
 |------|------|---------|
 | Find Community | `/find-community` | 还在找方向，想先从社群和问题出发 |
 | Validate Idea | `/validate-idea` | 想验证一个商业点子是否值得继续 |
@@ -72,12 +72,11 @@ git clone https://github.com/slavingia/skills.git ~/.claude/plugins/skills
 
 这套技能尤其适合：
 
-- solo founder
-- 还在找 PMF 的 builder
+- 单人创业者
+- 还在寻找 PMF 的 builder
 - 不想一开始就陷入大规模 build 的创业者
 - 想从“社群 / 问题 / 付费意愿”出发做产品的人
 
 ## 相关文件
 
 - 英文原文：[README.md](/Users/zhanyu/projects/skills/README.md)
-
